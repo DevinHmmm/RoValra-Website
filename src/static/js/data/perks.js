@@ -5,7 +5,6 @@ export const PERKS = [
         layout: 'hero',
         title: 'Free forever',
         text: 'Every non-cosmetic feature is free, and will remain free.',
-        visual: { type: 'price', value: '$0', unit: '/ month', crossed: ['Subscriptions', 'Locked features'] },
     },
     {
         layout: 'wide',
