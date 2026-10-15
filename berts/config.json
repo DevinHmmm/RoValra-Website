@@ -331,6 +331,28 @@
     "assetId": 118551981287846
   },
   {
+    "id": 33,
+    "value": "EvilIpad",
+    "label": "Evil iPad",
+    "link": "https://www.rovalra.com/berts/static/evilipad.webp",
+    "category": "Halloween",
+    "artistId": 4866259395,
+    "isNew": true,
+    "isFree": false,
+    "assetId": 105001263993895
+  },
+  {
+    "id": 34,
+    "value": "SpookyEvilIpad",
+    "label": "Spooky Evil iPad",
+    "link": "https://www.rovalra.com/berts/static/evilspookyipad.webp.webp",
+    "category": "Halloween",
+    "artistId": 4866259395,
+    "isNew": true,
+    "isFree": false,
+    "assetId": 70417700095057
+  },
+  {
     "id": 32,
     "value": "candycane",
     "label": "Candy Cane",
